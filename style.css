@@ -28,9 +28,9 @@ nav a{
 
 
 /* Google logo */
-.logo{
 
-}
+
+
 #the-logo{
     max-width: 100%;
     height:92;
@@ -57,9 +57,7 @@ nav a{
     border: 0.01rem solid black ;
     border-radius: 1rem;
  }
- .input :hover{
-     
- }
+ 
  .box :hover{
      box-shadow: 0.7px 1.5px #888888;
  }
@@ -76,9 +74,7 @@ nav a{
     grid-area: gog;
     justify-self: end;
 }
-#search-bt{
-    
-}
+
 #box-3{
     grid-area :luky;
     justify-self: start;
