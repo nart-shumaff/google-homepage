@@ -86,6 +86,12 @@ nav a:hover{
 
  /* search form */
 
+/* len caeng */
+.len-c{
+    text-align: center;
+}
+/* len caeng */
+
  /* footer */
 footer{
     width: 100%;
@@ -97,14 +103,20 @@ footer{
 .foot-box{
     display: flex;
     
-    justify-content:center ;
+    justify-content:center;
     
+}
+footer a{
+    color: #888888 ;
+    text-decoration: none;
+    margin: 2rem;
 }
 #contry{
     justify-content:start ;
+    
 }
 #flex-foot-uper{
-margin: auto;
+
 }
 
   /* footer */
